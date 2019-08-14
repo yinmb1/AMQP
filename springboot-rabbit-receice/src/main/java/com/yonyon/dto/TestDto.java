@@ -9,4 +9,9 @@ public class TestDto {
      * 测试id
      */
     private String id;
+
+    /**
+     * name名字
+     */
+    private String name;
 }
